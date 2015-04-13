@@ -1,8 +1,8 @@
 table, th, td {
     border: 1px solid black;
 }
-dt:hover{
-    color: purple;
+dt:hover ~ dd{
+	    color:purple;
 }
 
 .outer-content{
