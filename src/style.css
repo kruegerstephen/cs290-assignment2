@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid black;
+}
+dt:hover{
+    color: purple;
+}
+
+.outer-content{
+    margin-top:20px;
+    padding:20px;
+    background-color: pink;
+    width:75%;
+    text-align:center;
+}
+
+.inner-content{
+    background-color: blue;
+    display:inline-block;
+    width:75%;
+
+}
